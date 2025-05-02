@@ -1,4 +1,4 @@
-shared.LoaderTitle="Phungduchieutop1robloxPhungduchieutop1roblox";
+shared.LoaderTitle="duchieuskibiditop1roblox";
 shared.LoaderKeyFrames={[1]={3, 30}, [2]={5, 50}};
 local v2={LoaderData={Name=shared.LoaderTitle or "A Loader" , Colors=shared.LoaderColors or {Main=Color3.fromRGB(24, 24, 24), Topic=Color3.fromRGB(0, 191, 255), Title=Color3.fromRGB(0, 191, 255), LoaderBackground=Color3.fromRGB(30, 30, 30), LoaderSplash=Color3.fromRGB(0, 191, 255)} }, Keyframes=shared.LoaderKeyFrames or {[1]={1, 10}, [2]={2, 30}, [3]={3, 60}, [4]={2, 100}} };
 local 
